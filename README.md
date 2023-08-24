@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python and Django**
 
-- 📫 How to reach me **getachewmuhabaw@gmail.com**
+- 📫 How to reach me **https://getachew16.netlify.app/**
 
 - ⚡ Fun fact **I love technology**
 
