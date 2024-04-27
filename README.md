@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js, and AI**
 
-- 💬 Ask me about **Python and Django**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **https://getachew16.netlify.app/**
 
