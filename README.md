@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getachew-muhabaw-mesfin&label=Profile%20views&color=0e75b6&style=flat" alt="getachew-muhabaw-mesfin" /> </p>
 
-- 🔭 I’m currently working on **ERP Project**
-
-- 🌱 I’m currently learning **Next js, and AI**
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **https://getachew16.netlify.app/**
